@@ -5,7 +5,6 @@ I am a software craftsman with a burning desire to produce high-quality work. As
 Learning software development has rekindled a flame within me. I am an avid learner, always seeking new opportunities to strengthen my skills. I'm always on the lookout for better ways of doing things.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-collin-0b770319a/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/C0llliNN)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcollin65@gmail.com)
 
 ## ⚡ Technologies
