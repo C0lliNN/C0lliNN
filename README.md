@@ -20,6 +20,7 @@ Learning software development has rekindled a flame within me. I am an avid lear
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844fba?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=C0lliNN&count_private=true&show_icons=true&include_all_commits=true)
