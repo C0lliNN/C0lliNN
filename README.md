@@ -23,8 +23,4 @@ Learning software development has rekindled a flame within me. I am an avid lear
 ![Terraform](https://img.shields.io/badge/Terraform-844fba?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=C0lliNN&count_private=true&show_icons=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0lliNN&hide=php,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=C0lliNN.C0lliNN)
